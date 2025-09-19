@@ -90,7 +90,7 @@ export function Services() {
                     className="w-full bg-gradient-to-r from-red-600 to-orange-600 hover:from-red-700 hover:to-orange-700 text-white font-bold shadow-lg"
                     onClick={() => document.getElementById('contacto')?.scrollIntoView({ behavior: 'smooth' })}
                   >
-                    Consultar
+                    Cotizar
                   </Button>
                 </div>
               </CardContent>
